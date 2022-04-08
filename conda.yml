@@ -1,0 +1,26 @@
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python>=3.6
+  - cudatoolkit=10.2
+  - pytorch
+  - torchvision
+  - torchaudio
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - requests
+  - pip
+  - tqdm
+  - pip:
+    - epiweeks
+    - properscoring
+# For development
+  - ipykernel
+  - jupyter
+  - black
+  - pylint
+  - flake8

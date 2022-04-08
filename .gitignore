@@ -1,0 +1,7 @@
+.envs/*
+.vscode/*
+*.pyc
+__pycache__/*
+*/__pycache__/*
+*/.pytest_cache/*
+*.csv#
