@@ -1,9 +1,5 @@
 # PROFHiT: Probabilistic Robust Forecasting for Hierarchical Time-series
 
-Code and Data for KDD 2022 Submission.
-
-**Note:** This code is intended for review purpose only. 
-Any commercial or reseach use is strictly prohibited.
 
 ## Setup
 
