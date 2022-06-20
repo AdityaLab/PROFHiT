@@ -15,3 +15,16 @@ bash script/setup.sh
 
 For Tourism dataset run `train_tourism.py` and `train.py` for others.
 The start of the script has hyperparameters including the dataset to use.
+
+## Citation
+
+If you find this work useful for your research please cite us as follows:
+
+```bibtex
+@article{kamarthi2022profhit,
+  title={PROFHIT: Probabilistic Robust Forecasting for Hierarchical Time-series},
+  author={Kamarthi, Harshavardhan and Kong, Lingkai and Rodr{\'\i}guez, Alexander and Zhang, Chao and Prakash, B Aditya},
+  journal={arXiv preprint arXiv:2206.07940},
+  year={2022}
+}
+```
