@@ -8,7 +8,7 @@
 3. Run the following command to install the required packages.
 
 ```bash
-bash script/setup.sh
+bash scripts/setup.sh
 ```
 
 ## Running
